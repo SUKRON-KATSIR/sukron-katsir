@@ -19,7 +19,7 @@
 <a href="https://kaggle.com/sukronkatsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sukronkatsir" height="30" width="40" /></a>
 <a href="https://fb.com/sukron.project" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sukron.project" height="30" width="40" /></a>
 <a href="https://instagram.com/sukron_katsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukron_katsir" height="30" width="40" /></a>
-<a href="https://https://www.youtube.com/channel/UCVqos-_X4TxKLThGTGVJ5kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://https://www.youtube.com/channel/UCVqos-_X4TxKLThGTGVJ5kg" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/sukronproject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=sukron" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

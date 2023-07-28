@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sukron Katsir</h1>
-<h3 align="center">"Student of Informatics Engineering at Madura University."</h3>
 
-- 🌱 **I’m currently learning about Mobile Development**
+- 👨🏻‍🎓 **Student Of Informatics Engineering At Madura University**
 
-- 👯 **my favorite sport is badminton**
+- 🧑🏻‍💻 **I’m Currently Learning About Mobile Development**
 
-- ⚡ **I like playing games in the real world**
+- 🐇 **Rabbit Is My Nickname And My Favorit Aimal**
+
+- 🦋 **My partner's nickname is 'Butterfly,' a symbol of our romantic journey together**
+
+- 🏸 **My Favorite Sport Is Badminton**
+
+- 🎮 **I Like Playing Games In The Real World**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

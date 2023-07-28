@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukron Katsir</h1>
 <h3 align="center">"Student of Informatics Engineering at Madura University."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukron-katsir&label=Profile%20views&color=0e75b6&style=flat" alt="sukron-katsir" /> </p>
-
 - 🌱 **I’m currently learning about Mobile Development**
 
 - 👯 **my favorite sport is badminton**
@@ -48,3 +46,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sukron-katsir&label=Profile%20views&color=0e75b6&style=flat" alt="sukron-katsir" /> </p>

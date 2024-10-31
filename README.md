@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 **Student of Informatics Engineering at Madura University**
 
-- 🧑🏻‍💻 **I’m currently learning about mobile development**
+- 🧑🏻‍💻 **I’m currently learning about Mobile & Web development**
 
 - 🐇 **Rabbit is my nickname and my favorit animal**
 

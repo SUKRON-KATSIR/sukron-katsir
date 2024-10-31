@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sukron Katsir</h1>
 
-- 👨🏻‍🎓 **Student of Informatics Engineering at Madura University**
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>👨🏻‍🎓 <strong>Student of Informatics Engineering at Madura University</strong></li>
+        <li>🧑🏻‍💻 <strong>I’m currently learning about Mobile & Web development</strong></li>
+        <li>🐇 <strong>Rabbit is my nickname and my favorite animal</strong></li>
+        <li>🦋 <strong>My partner's nickname is Butterfly, a symbol of our romantic journey together</strong></li>
+        <li>🏸 <strong>My favorite sport is badminton</strong></li>
+        <li>🎮 <strong>I like playing games in the World</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; text-align: right;">
+      <img src="https://drive.google.com/uc?export=view&id=1OvAnZdW34WZw1JK7Q7Yj5LlH2wZW0eBA" alt="Oikawa" width="200"/>
+    </td>
+  </tr>
+</table>
 
-- 🧑🏻‍💻 **I’m currently learning about Mobile & Web development**
 
-- 🐇 **Rabbit is my nickname and my favorit animal**
-
-- 🦋 **My partner's nickname is Butterfly, a symbol of our romantic journey together**
-
-- 🏸 **My favorite sport is badminton**
-
-- 🎮 **I like playing games in the World**
-
-<p align="right">
-  <img src="https://drive.google.com/uc?export=view&id=1OvAnZdW34WZw1JK7Q7Yj5LlH2wZW0eBA" alt="Oikawa" width="200"/>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

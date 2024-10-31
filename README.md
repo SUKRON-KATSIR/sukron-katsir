@@ -18,12 +18,11 @@
   </tr>
 </table>
 
-
 <h1 align="center">Hi 👋, I'm Sukron Katsir</h1>
 
 <table style="border-collapse: collapse; width: 100%;">
-  <tr style="border: 1px solid black;">
-    <td style="vertical-align: top; border: 1px solid black; padding: 10px;">
+  <tr>
+    <td style="vertical-align: top; padding: 10px;">
       <ul>
         <li>👨🏻‍🎓 <strong>Student of Informatics Engineering at Madura University</strong></li>
         <li>🧑🏻‍💻 <strong>I’m currently learning about Mobile & Web development</strong></li>
@@ -33,7 +32,7 @@
         <li>🎮 <strong>I like playing games in the World</strong></li>
       </ul>
     </td>
-    <td style="vertical-align: bottom; text-align: right; border: 1px solid black; padding: 10px;">
+    <td style="vertical-align: bottom; text-align: right; padding: 10px;">
       <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="400"/>
     </td>
   </tr>

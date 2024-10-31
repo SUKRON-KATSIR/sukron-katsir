@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td style="vertical-align: button; text-align: right;">
-      <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="300"/>
+      <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="100"/>
     </td>
   </tr>
 </table>

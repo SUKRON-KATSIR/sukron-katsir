@@ -12,8 +12,8 @@
         <li>🎮 <strong>I like playing games in the World</strong></li>
       </ul>
     </td>
-    <td style="vertical-align: top; text-align: right;">
-      <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="200"/>
+    <td style="vertical-align: button; text-align: right;">
+      <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="300"/>
     </td>
   </tr>
 </table>

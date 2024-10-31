@@ -12,21 +12,9 @@
 
 - 🎮 **I like playing games in the World**
 
-<h1 align="center">Hi 👋, I'm Sukron Katsir</h1>
-
-<p align="left">
-  👨🏻‍🎓 <strong>Student of Informatics Engineering at Madura University</strong><br>
-  🧑🏻‍💻 <strong>I’m currently learning about Mobile & Web development</strong><br>
-  🐇 <strong>Rabbit is my nickname and my favorite animal</strong><br>
-  🦋 <strong>My partner's nickname is Butterfly, a symbol of our romantic journey together</strong><br>
-  🏸 <strong>My favorite sport is badminton</strong><br>
-  🎮 <strong>I like playing games in the World</strong>
-</p>
-
 <p align="right">
-  <img src="https://drive.google.com/file/d/1OvAnZdW34WZw1JK7Q7Yj5LlH2wZW0eBA/view?usp=drivesdk" alt="Oikawa" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1OvAnZdW34WZw1JK7Q7Yj5LlH2wZW0eBA" alt="Oikawa" width="200"/>
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

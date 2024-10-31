@@ -13,12 +13,10 @@
       </ul>
     </td>
     <td style="vertical-align: top; text-align: right;">
-      <img src="[https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2](https://drive.google.com/file/d/1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2/view?usp=drivesdk)" alt="Oikawa" width="200"/>
+      <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="200"/>
     </td>
-    
   </tr>
 </table>
-
 
 
 <h3 align="left">Connect with me:</h3>

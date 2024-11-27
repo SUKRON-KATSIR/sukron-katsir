@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sukron Katsir</h1>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Vb4y-2kCc1ZtFKywuf1kPILr8pMevfSG" />
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Sukron Katsir</h1> -->
 
+---
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <ul>
+      <ul> <h3>
         <li>👨🏻‍🎓 <strong>Student of Informatics Engineering at Madura University</strong></li>
         <li>🧑🏻‍💻 <strong>I’m currently learning about Mobile & Web development</strong></li>
         <li>🐇 <strong>Rabbit is my nickname and my favorite animal</strong></li>
@@ -13,7 +17,7 @@
       </ul>
     </td>
     <td style="vertical-align: button; text-align: right;">
-      <img src="https://drive.google.com/uc?export=view&id=1P2lhs8-j0GTY_eQIbz0cGMUcOSkcwxO2" alt="Oikawa" width="400"/>
+      <img src="https://drive.google.com/uc?export=view&id=1j3utS6iAzg5SUBnHIbZeRIxLkLNdlklL" alt="Programmer" width="400"/>
     </td>  
   </tr>
 </table>
@@ -69,9 +73,9 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
+---
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1PR1jf0D_0-EVcGT2ufX3a1HsfsRqyaGW" />
+  <img src="https://drive.google.com/uc?export=view&id=1VpKHtq2tNOq1mx9wmKh50Fi2dghVNFWw" />
 </p>
 
----
 [![](https://visitcount.itsvg.in/api?id=SUKRON&icon=0&color=0)](https://visitcount.itsvg.in)

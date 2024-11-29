@@ -75,7 +75,7 @@
 
 ---
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1VpKHtq2tNOq1mx9wmKh50Fi2dghVNFWw" />
+  <img src="https://drive.google.com/uc?export=view&id=1Q7tUC59J9qKlcTQXi_Vjp2sKrkaut17z" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=SUKRON&icon=0&color=0)](https://visitcount.itsvg.in)
